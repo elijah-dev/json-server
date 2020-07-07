@@ -1,8 +1,8 @@
 {
-  "users": [
+  "auth": [
     {
       "id": "1",
-      "username": "user",
+      "username": "someuser",
       "password": "1234"
     }
   ]
