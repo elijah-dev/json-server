@@ -5,5 +5,70 @@
       "username": "someuser",
       "password": "1234"
     }
+  ],
+  "contacts": [
+    {
+      "id": "93f253f1-15aa-4bb9-97ef-b3e58820b105",
+      "firstName": "Тимофей",
+      "lastName": "Максимов",
+      "phone": "8(19)189-62-46",
+      "email": "aojv@mail.ru"
+    },
+    {
+      "id": "0466ed79-3581-439c-b16c-89228cedd6dc",
+      "firstName": "Василий",
+      "lastName": "Шубин",
+      "phone": "8(8701)301-36-29",
+      "email": "kggfpxw@yandex.ru"
+    },
+    {
+      "id": "5d7c1648-2ada-4986-9979-b2044b79a77b",
+      "firstName": "Лариса",
+      "lastName": "Белова",
+      "phone": "8(261)777-96-00",
+      "email": "oxxv@yandex.ru"
+    },
+    {
+      "id": "45c6d549-6e19-4f31-a151-7f2f3b40adff",
+      "firstName": "Светлана",
+      "lastName": "Панова",
+      "phone": "8(968)253-96-40",
+      "email": "f9jxjd14@gmail.com"
+    },
+    {
+      "id": "e31aea9a-c4c1-47fe-a79b-93c9b23ab409",
+      "firstName": "Виктория",
+      "lastName": "Маркова",
+      "phone": "8(5231)387-99-47",
+      "email": "p24a@mail.ru"
+    },
+    {
+      "id": "5279dc3d-a64b-45f1-9619-e109c228289b",
+      "firstName": "Олег",
+      "lastName": "Буров",
+      "phone": "8(263)682-37-76",
+      "email": "ahbg@yandex.ru"
+    },
+    {
+      "id": "4d15edb9-6006-4b94-ab28-f6d5cfea000d",
+      "firstName": "Любовь",
+      "lastName": "Дьячкова",
+      "phone": "8(06)568-18-22",
+      "email": "xl9bc5@gmail.com"
+    },
+    {
+      "id": "b268a525-1d4f-40b9-a6b9-47011b09b7a6",
+      "firstName": "Игорь",
+      "lastName": "Меркушев",
+      "phone": "8(601)062-78-90",
+      "email": "q4aptu@mail.ru"
+    },
+    {
+      "id": "1fba9314-76aa-4822-9999-fa37e834da98",
+      "firstName": "Владимир",
+      "lastName": "Никонов",
+      "phone": "8(59)961-59-11",
+      "email": "n4zc9kz@yandex.ru"
+    }
   ]
 }
